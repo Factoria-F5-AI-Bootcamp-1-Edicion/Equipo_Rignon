@@ -23,6 +23,6 @@ Somos el departamento de Analisis de Datos del hospital F5.
 
 # Miembros del equipo:
 - Andrea Sandoval
-- Jonnathan (Scrum Máster)
+- Jonnathan (Product owner)
 - Pablo Ruado (Scrum Máster)
 - Vaneza
