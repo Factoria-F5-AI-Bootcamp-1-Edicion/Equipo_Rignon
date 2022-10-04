@@ -1,0 +1,5 @@
+# Checkpoint Jupyter
+.ipynb_checkpoints
+
+#Base de datos en csv
+stroke_dataset.csv
